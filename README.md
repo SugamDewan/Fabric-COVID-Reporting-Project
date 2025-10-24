@@ -27,7 +27,7 @@ The pipeline follows a modern data engineering workflow within the Fabric ecosys
 ## Final Output: Actionable Dashboard
 The final result is an interactive Power BI dashboard providing key insights into COVID-19 trends, including cases, deaths, and hospital admissions across different countries and over time.
 
-![Final Power BI Dashboard](Final Power BI Dashboard.png)
+(Final Power BI Dashboard.png)
 
 ## Business Value & Key Learnings
 This project demonstrates how Microsoft Fabric can be used to:
